@@ -14,7 +14,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 // ==========================================
 // 🔑 CONFIGURATION: PASTE YOUR API KEY HERE
 // ==========================================
-const GEMINI_API_KEY = "AIzaSyCJUAVpZmrJLgdmIZQyhGUB1AZ-lZ5ZUPw"; 
+const GEMINI_API_KEY = "-----"; 
 // ^^^ Go to https://aistudio.google.com/ to get a free key
 
 // --- ROBUST IMPORT: Load CallLogs library ---
