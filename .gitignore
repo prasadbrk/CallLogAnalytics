@@ -1,0 +1,9 @@
+# Expo / React Native
+node_modules/
+.expo/
+.DS_Store
+*.log
+ios/build/
+android/build/
+android/app/build/
+
